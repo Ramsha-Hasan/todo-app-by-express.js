@@ -1,0 +1,25 @@
+body 
+{
+background-color: lightblue;
+color: white;
+}
+
+input
+{
+height: 40px;
+width: 200px;
+font-size: 15px;
+}
+
+button
+{
+height: 40px;
+color: black;
+background-color: white;
+font-size: 15px;
+}
+
+li
+{
+font-size: 25px;
+}
